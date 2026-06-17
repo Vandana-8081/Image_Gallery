@@ -11,7 +11,7 @@ A responsive and modern Image Gallery web application built using React.js. The 
 - ⚡ Fast and smooth user experience
 - 🎨 Modern dark-themed UI
 - 📱 Fully responsive design
-   https://vandanaimagegallery.netlify.app/
+- Visit (https://vandanaimagegallery.netlify.app/)
 
 ## 🛠️ Technologies Used
 
