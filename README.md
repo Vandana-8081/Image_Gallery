@@ -1,4 +1,4 @@
-# Image_Gallery
+
 # 🖼️ Image Gallery
 
 A responsive and modern Image Gallery web application built using React.js. The application fetches and displays beautiful images in a grid layout with pagination support, allowing users to browse through multiple pages of images seamlessly.
